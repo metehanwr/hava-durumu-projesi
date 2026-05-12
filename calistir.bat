@@ -1,7 +1,7 @@
 @echo off
 echo Kutuphaneler yukleniyor...
-pip install -r requirements.txt
+py -m pip install -r requirements.txt
 echo.
 echo Program baslatiliyor...
-python src/main.py
+py src/main.py
 pause
