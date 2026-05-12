@@ -1,0 +1,16 @@
+HAVA DURUMU PROJESİ RAPORU
+========================================
+
+NumPy İstatistikleri:
+  ortalama_sicaklik: 15.36
+  std_sicaklik: 8.65
+  min_sicaklik: 0.5
+  max_sicaklik: 31.8
+  toplam_yagis: 232.5
+  korelasyon: -0.9115
+
+Model Sonuçları:
+  MAE: 0.64
+  MSE: 0.6423
+  RMSE: 0.8014
+  R2: 0.9909
